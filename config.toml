@@ -44,7 +44,7 @@ background_thumbnail_font_color = "255,255,255"
 
 [settings.tts]
 voice_choice = "googletranslate"
-random_voice = true
+random_voice = false
 elevenlabs_voice_name = "Bella"
 elevenlabs_api_key = "21f13f91f54d741e2ae27d2ab1b99d59"
 aws_polly_voice = "Matthew"
