@@ -45,7 +45,7 @@ background_thumbnail_font_color = "255,255,255"
 [settings.tts]
 voice_choice = "elevenlabs"
 random_voice = false
-elevenlabs_voice_name = "Brian"
+elevenlabs_voice_name = "Adam"
 elevenlabs_api_key = "088b5120fd2b6a329b3875f70f63f9b6"
 aws_polly_voice = "Matthew"
 streamlabs_polly_voice = "Matthew"
