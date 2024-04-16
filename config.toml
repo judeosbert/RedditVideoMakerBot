@@ -43,11 +43,11 @@ background_thumbnail_font_size = 96
 background_thumbnail_font_color = "255,255,255"
 
 [settings.tts]
-voice_choice = "elevenlabs"
+voice_choice = "awspolly"
 random_voice = false
 elevenlabs_voice_name = "Adam"
 elevenlabs_api_key = "088b5120fd2b6a329b3875f70f63f9b6"
-aws_polly_voice = "Matthew"
+aws_polly_voice = "Joanna"
 streamlabs_polly_voice = "Matthew"
 tiktok_voice = "en_us_001"
 tiktok_sessionid = "c76bcc3a7625abcc27b508c7db457ff1"
